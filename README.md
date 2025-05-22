@@ -78,12 +78,6 @@ To implement a lightweight SOAR platform (Shuffle) and integrate it with a SIEM 
 
 ## 📸 Screenshots
 
-> 📌 Add screenshots of:
-> - Shuffle playbook workflows  
-> - Enriched alert data  
-> - TheHive case creation  
-> - VirusTotal results  
-> - Wazuh → Shuffle alert flow
 ![Screenshot 2025-05-22 123412](https://github.com/user-attachments/assets/eb011f10-9457-4241-8745-7ca312c6d067)
 ![Screenshot 2025-05-21 134608](https://github.com/user-attachments/assets/2f49a92e-7061-467c-9c20-6f573b2c575e)
 ![Screenshot 2025-05-21 144926](https://github.com/user-attachments/assets/9bf5845d-134e-4664-9093-12031a318e9c)
